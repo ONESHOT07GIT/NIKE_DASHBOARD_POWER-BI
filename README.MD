@@ -5,22 +5,25 @@
 This project is a simple HTML webpage embedding a Power BI report using an iframe. The purpose of this project is to display the Power BI report in a full-screen view within a web browser.
 
 ## Usage
-
 To use this project, follow these steps:
 
+OPTION -1
 1. Clone the repository to your local machine:
 
     ```bash
     git clone https://github.com/mayankjonwal02/PowerBI_Nike.git
     ```
-
 2. Open the `index.html` file in a web browser.
-
 3. The Power BI report will be embedded in the webpage and displayed in full-screen mode.
 
+OPTION-2
+1. Download the all pbix , xlsx,csv Files 
+2. Open the Power-BI Dextop Sync All
+3. Make Changes , Plot new Measures, etc .
 ## Requirements
 
 - Web browser
+- POWER BI Desktop
 
 ## Tech Stack
 
