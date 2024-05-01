@@ -3,8 +3,8 @@
 ## Overview
 This project is a simple HTML webpage embedding a Power BI report using an iframe. The purpose of this project is to display the Power BI report in a full-screen view within a web browser.
 
-##BUY THIS POWER BI FILE
-"Drop Mail : oshot037@gmail.com"
+## BUY THIS POWER BI FILE
+" Drop Mail : oshot037@gmail.com "
 
 ## Usage
 To use this project, follow these steps:
