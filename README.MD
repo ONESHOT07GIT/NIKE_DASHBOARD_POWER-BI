@@ -32,7 +32,7 @@ OPTION-2
 
 ## Deployed Link
 
-This project is deployed at: [https://mayankjonwal02.github.io/PowerBI_Nike/](https://mayankjonwal02.github.io/PowerBI_Nike/)
+This project is deployed at: [https://oneshot07git.github.io/NIKE_DASHBOARD_POWER-BI/](https://oneshot07git.github.io/NIKE_DASHBOARD_POWER-BI/)
 
 ## Contributing
 
