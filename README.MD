@@ -11,7 +11,7 @@ OPTION -1
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/mayankjonwal02/PowerBI_Nike.git
+    git clone https://github.com/ONESHOT07GIT/NIKE_DASHBOARD_POWER-BI.git
     ```
 2. Open the `index.html` file in a web browser.
 3. The Power BI report will be embedded in the webpage and displayed in full-screen mode.
